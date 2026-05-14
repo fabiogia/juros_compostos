@@ -2,6 +2,10 @@
 
 Aplicativo Flutter para cálculo de juros compostos com aporte inicial, aporte mensal, taxa de juros e período de investimento.
 
+## Screenshot
+
+![Screenshot do aplicativo](screenshot.png)
+
 ## Visão geral
 
 O app permite:
